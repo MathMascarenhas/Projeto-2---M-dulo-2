@@ -36,7 +36,7 @@ Abra o link que o terminal gerou.
 
 Exemplo: Servidor rodando em http://localhost:3000
 ```
-## 📦 Desenvolvimento
+## Desenvolvimento
 
 Foi desenvolvido um CRUD básico com os dados guardardos em memória.
 
@@ -49,7 +49,7 @@ Tecnologias e linguagens utilizadas no projeto:
 
 ## Autores
 
-* **Matheus Mascarenhas** - ([https://github.com/dudahcardoso)])
+* **Matheus Mascarenhas** - (https://github.com/MathMascarenhas)
 
 ## Licença
 
