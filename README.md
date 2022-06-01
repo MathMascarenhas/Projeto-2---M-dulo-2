@@ -1,4 +1,4 @@
-#Link do Deploy: [https://pokedex-matheus.herokuapp.com/](https://pokedex-matheus.herokuapp.com/)
+# Link do Deploy: [https://pokedex-matheus.herokuapp.com/](https://pokedex-matheus.herokuapp.com/)
 
 
 
@@ -6,7 +6,7 @@
 
 Um projeto teste para armazenar dados de Pokémos, assim como editar tais dados.
 
-## 🚀 Começando
+## Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
