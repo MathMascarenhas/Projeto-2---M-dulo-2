@@ -1,0 +1,26 @@
+{
+  "name": "projeto-2---m-dulo-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathMascarenhas/Projeto-2---M-dulo-2.git"
+  },
+  "author": "Matheus Mascarenhas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MathMascarenhas/Projeto-2---M-dulo-2/issues"
+  },
+  "homepage": "https://github.com/MathMascarenhas/Projeto-2---M-dulo-2#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  },
+  "devDependencies": {}
+}
