@@ -10,7 +10,7 @@ const pokedex = [
   {
     id: 1,
     nome: "Caterpie",
-    tipo: "Bug",
+    tipo: "Inseto",
     imagem: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png",
     descricao:
       "For protection, it releases a horrible stench from the antenna on its head to drive away enemies.",
@@ -22,7 +22,7 @@ const pokedex = [
   {
     id: 2,
     nome: "Charmander",
-    tipo: "Fire",
+    tipo: "Fogo",
     imagem: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
     descricao:
       "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
@@ -34,7 +34,7 @@ const pokedex = [
   {
     id: 3,
     nome: "Squirtle",
-    tipo: "Water",
+    tipo: "Água",
     imagem: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
     descricao:
       "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
